@@ -1,0 +1,28 @@
+,name,address,subtype,admissionfee,coordinates,lat,long,inoutflag,estduration,subduration,interest,slots
+0,Universal Studios Singapore,"8 Sentosa Gateway, 098269",theme park,61,"[1.25574585, 103.82123439403357]",1.25574585,103.8212344,outdoor,8,2.666666667,30,3
+1,Singapore Art Museum,"71 Bras Basah Rd, Singapore 189555",museum,10,"[1.2977042, 103.8507745]",1.2977042,103.8507745,indoor,3,3,2,1
+2,Gardens By The Bay,"18 Marina Gardens Dr, Singapore 018953",sightseeing,0,"[1.2848639, 103.8640308]",1.2848639,103.8640308,outdoor,4,2,6,2
+3,Singapore Zoo,"80 Mandai Lake Rd, 729826",theme park,48,"[1.4037076, 103.79403742902613]",1.4037076,103.7940374,outdoor,8,2.666666667,3,3
+4,Singapore DUCKtours,"3 Temasek Blvd, Suntec City, Singapore 038983",tour,43,"[1.2951505, 103.8598741]",1.2951505,103.8598741,outdoor,2,2,2,1
+5,ION Orchard,"2 Orchard Turn, Singapore 238801",shopping,0,"[1.3039478500000001, 103.83190513892652]",1.30394785,103.8319051,indoor,2,2,8,1
+6,Botanic Gardens,"1 Cluny Rd, Singapore 259569",sightseeing,0,"[1.3085088, 103.8179136]",1.3085088,103.8179136,outdoor,4,2,7,2
+7,Istana,"Orchard Rd, Singapore 238823",sightseeing,0,"[1.3012785, 103.8389486]",1.3012785,103.8389486,outdoor,1,1,10,1
+8,Fort Siloso,"Siloso Rd, 099981",museum,0,"[1.2574819, 103.8113315]",1.2574819,103.8113315,indoor,2,2,10,1
+9,Fort Canning,"River Valley Rd, Singapore 179037",sightseeing,0,"[1.2918541, 103.8454193]",1.2918541,103.8454193,outdoor,1,1,3,1
+10,Clarke Quay,"3 River Valley Rd, Singapore 179024",sightseeing,0,"[1.2902153, 103.8462338]",1.2902153,103.8462338,indoor,2,2,7,1
+11,Merlion,"1 Fullerton Rd, Singapore 049213",sightseeing,0,"[1.2852254, 103.8538824]",1.2852254,103.8538824,outdoor,0.5,0.5,6,1
+12,Esplanade,"Esplanade Dr, Singapore 038981",sightseeing,0,"[1.2866643, 103.8539338]",1.2866643,103.8539338,indoor,0.5,0.5,4,1
+13,Singapore Flyer,"30 Raffles Ave., Singapore 039803",sightseeing,40,"[1.2894378999999998, 103.86325981249863]",1.2894379,103.8632598,indoor,1,1,8,1
+14,Jurong Lake Gardens,Yuan Ching Rd,sightseeing,0,"[1.3267434, 103.7253182]",1.3267434,103.7253182,outdoor,1,1,5,1
+15,East Coast Park,E Coast Park Service Rd,sightseeing,0,"[1.3119804, 103.9518843]",1.3119804,103.9518843,outdoor,3,3,1,1
+16,Jewel,"78 Airport Blvd., Singapore 819666",sightseeing,0,"[1.36022425, 103.98967490995528]",1.36022425,103.9896749,outdoor,2,2,1,1
+17,Singapore Discovery Centre,"510 Upper Jurong Rd, Singapore 638365",museum,10,"[1.33269035, 103.6790421957158]",1.33269035,103.6790422,indoor,1,1,7,1
+18,Singapore Science Centre,"15 Science Centre Rd, Singapore 609081",museum,12,"[1.3328377, 103.73601896466558]",1.3328377,103.736019,indoor,2,2,10,1
+19,National Gallery,"1 St Andrew's Rd, Singapore 178957",musem,20,"[1.29054805, 103.85164439937722]",1.29054805,103.8516444,indoor,1,1,9,1
+20,Chinatown,"203 New Bridge Rd, Singapore 059429",sightseeing,0,"[1.2840795, 103.8435545]",1.2840795,103.8435545,outdoor,2,2,9,1
+21,Keong Saik Rd,Keong Saik Rd,sightseeing,0,"[1.2827656, 103.8423299]",1.2827656,103.8423299,outdoor,1,1,7,1
+22,Kampong Lorong Buangkok,13 Lor Buangkok,sightseeing,0,"[1.372099, 103.879161]",1.372099,103.879161,outdoor,0.5,0.5,7,1
+23,Haw Par Villa,"262 Pasir Panjang Rd, Singapore 118628",museum,0,"[1.28415485, 103.78261702058418]",1.28415485,103.782617,indoor,1,1,4,1
+24,Little India,"Serangoon Rd, Singapore 218010",sightseeing,0,"[1.3053144, 103.8510539]",1.3053144,103.8510539,outdoor,2,2,8,1
+25,Arab Street,"Arab Street, Singapore 199800",sightseeing,0,"[1.303587, 103.856895]",1.303587,103.856895,outdoor,2,2,1,1
+26,Reflections at Bukit Chandu,"31 - K Pepys Road, 118458",museum,5,"[1.2794721, 103.7940834]",1.2794721,103.7940834,indoor,1,1,4,1
